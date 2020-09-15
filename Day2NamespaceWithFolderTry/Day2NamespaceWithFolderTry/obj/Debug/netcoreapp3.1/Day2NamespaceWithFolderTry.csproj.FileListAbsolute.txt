@@ -1,0 +1,13 @@
+C:\Users\waiya\source\repos\Day2NamespaceWithFolderTry\Day2NamespaceWithFolderTry\bin\Debug\netcoreapp3.1\Day2NamespaceWithFolderTry.exe
+C:\Users\waiya\source\repos\Day2NamespaceWithFolderTry\Day2NamespaceWithFolderTry\bin\Debug\netcoreapp3.1\Day2NamespaceWithFolderTry.deps.json
+C:\Users\waiya\source\repos\Day2NamespaceWithFolderTry\Day2NamespaceWithFolderTry\bin\Debug\netcoreapp3.1\Day2NamespaceWithFolderTry.runtimeconfig.json
+C:\Users\waiya\source\repos\Day2NamespaceWithFolderTry\Day2NamespaceWithFolderTry\bin\Debug\netcoreapp3.1\Day2NamespaceWithFolderTry.runtimeconfig.dev.json
+C:\Users\waiya\source\repos\Day2NamespaceWithFolderTry\Day2NamespaceWithFolderTry\bin\Debug\netcoreapp3.1\Day2NamespaceWithFolderTry.dll
+C:\Users\waiya\source\repos\Day2NamespaceWithFolderTry\Day2NamespaceWithFolderTry\bin\Debug\netcoreapp3.1\Day2NamespaceWithFolderTry.pdb
+C:\Users\waiya\source\repos\Day2NamespaceWithFolderTry\Day2NamespaceWithFolderTry\obj\Debug\netcoreapp3.1\Day2NamespaceWithFolderTry.csprojAssemblyReference.cache
+C:\Users\waiya\source\repos\Day2NamespaceWithFolderTry\Day2NamespaceWithFolderTry\obj\Debug\netcoreapp3.1\Day2NamespaceWithFolderTry.AssemblyInfoInputs.cache
+C:\Users\waiya\source\repos\Day2NamespaceWithFolderTry\Day2NamespaceWithFolderTry\obj\Debug\netcoreapp3.1\Day2NamespaceWithFolderTry.AssemblyInfo.cs
+C:\Users\waiya\source\repos\Day2NamespaceWithFolderTry\Day2NamespaceWithFolderTry\obj\Debug\netcoreapp3.1\Day2NamespaceWithFolderTry.csproj.CoreCompileInputs.cache
+C:\Users\waiya\source\repos\Day2NamespaceWithFolderTry\Day2NamespaceWithFolderTry\obj\Debug\netcoreapp3.1\Day2NamespaceWithFolderTry.dll
+C:\Users\waiya\source\repos\Day2NamespaceWithFolderTry\Day2NamespaceWithFolderTry\obj\Debug\netcoreapp3.1\Day2NamespaceWithFolderTry.pdb
+C:\Users\waiya\source\repos\Day2NamespaceWithFolderTry\Day2NamespaceWithFolderTry\obj\Debug\netcoreapp3.1\Day2NamespaceWithFolderTry.genruntimeconfig.cache

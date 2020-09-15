@@ -1,0 +1,13 @@
+C:\Users\waiya\source\repos\Day2ErrorDebuging\Day2ErrorDebuging\obj\Debug\netcoreapp3.1\Day2ErrorDebuging.AssemblyInfoInputs.cache
+C:\Users\waiya\source\repos\Day2ErrorDebuging\Day2ErrorDebuging\obj\Debug\netcoreapp3.1\Day2ErrorDebuging.AssemblyInfo.cs
+C:\Users\waiya\source\repos\Day2ErrorDebuging\Day2ErrorDebuging\obj\Debug\netcoreapp3.1\Day2ErrorDebuging.csproj.CoreCompileInputs.cache
+C:\Users\waiya\source\repos\Day2ErrorDebuging\Day2ErrorDebuging\obj\Debug\netcoreapp3.1\Day2ErrorDebuging.csprojAssemblyReference.cache
+C:\Users\waiya\source\repos\Day2ErrorDebuging\Day2ErrorDebuging\bin\Debug\netcoreapp3.1\Day2ErrorDebuging.exe
+C:\Users\waiya\source\repos\Day2ErrorDebuging\Day2ErrorDebuging\bin\Debug\netcoreapp3.1\Day2ErrorDebuging.deps.json
+C:\Users\waiya\source\repos\Day2ErrorDebuging\Day2ErrorDebuging\bin\Debug\netcoreapp3.1\Day2ErrorDebuging.runtimeconfig.json
+C:\Users\waiya\source\repos\Day2ErrorDebuging\Day2ErrorDebuging\bin\Debug\netcoreapp3.1\Day2ErrorDebuging.runtimeconfig.dev.json
+C:\Users\waiya\source\repos\Day2ErrorDebuging\Day2ErrorDebuging\bin\Debug\netcoreapp3.1\Day2ErrorDebuging.dll
+C:\Users\waiya\source\repos\Day2ErrorDebuging\Day2ErrorDebuging\bin\Debug\netcoreapp3.1\Day2ErrorDebuging.pdb
+C:\Users\waiya\source\repos\Day2ErrorDebuging\Day2ErrorDebuging\obj\Debug\netcoreapp3.1\Day2ErrorDebuging.dll
+C:\Users\waiya\source\repos\Day2ErrorDebuging\Day2ErrorDebuging\obj\Debug\netcoreapp3.1\Day2ErrorDebuging.pdb
+C:\Users\waiya\source\repos\Day2ErrorDebuging\Day2ErrorDebuging\obj\Debug\netcoreapp3.1\Day2ErrorDebuging.genruntimeconfig.cache
